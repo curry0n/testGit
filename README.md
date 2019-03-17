@@ -1,3 +1,3 @@
 # testGit
-- my first try on github# testGit
+- my first try on github
 
